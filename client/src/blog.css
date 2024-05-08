@@ -1,0 +1,26 @@
+#editor{
+  width: 90%;
+  margin-top: 2rem;
+}
+#editor .ql-editor {
+  width: 100%;
+}
+
+#editor .ql-container.ql-snow.ql-disabled{
+  border: none;
+}
+
+#editor .ql-editor.ql-snow {
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+
+#editor .ql-toolbar.ql-snow {
+  display: none;
+}
+
+/* for printing page selector */
+#page {
+  margin: 1;
+}
